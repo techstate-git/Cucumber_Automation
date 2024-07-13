@@ -1,4 +1,4 @@
-package stepDefinitions.sauceDemo;
+package stepDefinitions.ui.sauceDemo;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -6,7 +6,6 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 import pages.sauceDemo.SauceDemoLoginPage;
-import utilities.WebUtils;
 
 import static stepDefinitions.Hooks.driver;
 

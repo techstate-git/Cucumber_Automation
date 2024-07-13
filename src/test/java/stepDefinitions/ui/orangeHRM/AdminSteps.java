@@ -1,4 +1,4 @@
-package stepDefinitions.orangeHRM;
+package stepDefinitions.ui.orangeHRM;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
