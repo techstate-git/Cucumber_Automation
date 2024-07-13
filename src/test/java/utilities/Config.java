@@ -13,7 +13,7 @@ public class Config {
     static{
         properties = new Properties();
         try {
-            FileInputStream file = new FileInputStream("/Users/zhanarbek/IdeaProjects/fullstack/CucumberBatch1/ui/src/test/resources/application.properties");
+            FileInputStream file = new FileInputStream("/Users/zhanarbek/Desktop/projects/Cucumber_Automation/src/test/resources/application.properties");
             properties.load(file);
             file.close();
         } catch (IOException e) {

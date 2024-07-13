@@ -1,4 +1,4 @@
-package stepDefinitions.sauceDemo;
+package stepDefinitions.ui.sauceDemo;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
